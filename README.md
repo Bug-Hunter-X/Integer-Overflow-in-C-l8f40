@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates the integer overflow error. The bug.c file contains the erroneous code, while bugSolution.c provides a corrected version. The integer overflow occurs when attempting to store a value that is too large for the declared integer data type.
